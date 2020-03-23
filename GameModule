@@ -1,0 +1,16 @@
+local games = {
+	
+	["Strucid"] = {
+		GameId = 0;
+		ScriptName = "Stroton";
+		Script = ""
+	};
+	["Jailbreak"] = {
+		GameId = 0;
+		ScriptName = "ProtonBreak";
+		Script = ""
+	};
+	
+}
+
+return games
